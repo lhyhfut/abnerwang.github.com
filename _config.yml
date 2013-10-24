@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://abnerwang.github.com
+author: AbnerWang
+pygments: true
+paginate: 24
